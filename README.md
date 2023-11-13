@@ -42,3 +42,5 @@ http://localhost:3000/
 ```
 
 Demo ![Alt Text](demo.gif)
+
+![](https://github.com/VaishnaviByjus/search-input-box-assignment/blob/main/Screen%20Recording%202023-11-11%20at%208.15.54%20PM.gif)
